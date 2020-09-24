@@ -12,9 +12,11 @@ html {
 .container {
 width: max-content;
 max-width: 1000px;
-background: lightpink;
+background: rgb(3, 1, 15);
 /*height: 400px;*/
-margin:0 auto 0 auto;
+margin: 0 auto;
+margin-top: 30px;
+margin-bottom: 30px;
 
 /*TRBL//"TROUBLE"*/
 /*margin: 0 auto;
@@ -33,5 +35,7 @@ transform: translate(-50%, -50%);*/
 .container img{
     width:300px;
     margin: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: block;
 }
